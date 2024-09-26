@@ -1,3 +1,4 @@
+package ciclos_condicionales
 import java.util.*
 // Ejercicio 1 números introducidos hasta el negativo
 fun main(){
